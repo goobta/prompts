@@ -18,3 +18,5 @@ I have been working on the code in                                              
 │                                                                                        │
 │   Finally, assume that the input that meetReport is getting is [Pasted text #1 +282    │
 │   lines] if that helps determine types and what data is actually needed 
+
+Delete any unused code.
